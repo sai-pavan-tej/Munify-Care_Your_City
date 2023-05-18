@@ -1,4 +1,4 @@
-# Civic Platform Project
+# Munify - Care Your City
 
 ## Overview
 This project introduces an innovative civic platform that fosters active citizen participation in the maintenance of infrastructure. It's a unique blend of modern communication technologies and blockchain that bring a new level of transparency and engagement to community participation.
