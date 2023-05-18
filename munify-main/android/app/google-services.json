@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526390462128",
+    "project_id": "munify-973ab",
+    "storage_bucket": "munify-973ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526390462128:android:949702d6e2f84ccacbdd75",
+        "android_client_info": {
+          "package_name": "com.example.munify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526390462128-rs8b1qgtqd1c4750rq14uc4c330harp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Ygea-thJjpq5LR6R8GspjAKoqGsBR-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526390462128-rs8b1qgtqd1c4750rq14uc4c330harp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
