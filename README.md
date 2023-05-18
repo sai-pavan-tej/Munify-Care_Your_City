@@ -22,4 +22,4 @@ We're open to contributions! Feel free to fork the project, make changes, and su
 
 ---
 
-If you have any issues, questions, or need help, please raise a ticket. Our team will be glad to assist you.
+If you have any issues, questions, or need help, please raise a ticket. I will be glad to assist you.
